@@ -1,5 +1,7 @@
 # Cutting Stock Problem Using Simulated Annealing
 
+![](pic.png)
+
 ## Introduction
 
 The Cutting Stock Problem is a challenging optimization problem that arises in various industries, including paper manufacturing and sheet metal production. The goal is to cut standard-sized rolls or sheets of material into smaller pieces of requested sizes while minimizing material waste. This problem is known to be NP-hard, making it computationally complex.
